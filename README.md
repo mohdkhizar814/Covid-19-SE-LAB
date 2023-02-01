@@ -1,1 +1,1 @@
-# Covid-19-SE-LAB
+# Covid-19
